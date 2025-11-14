@@ -111,7 +111,7 @@ Un bouton permet de :
     - App.axaml
     - App.axaml.cs
     - Program.cs
-    - README.md``
+    - README.md
 
 ### Installation & Exécution
 
