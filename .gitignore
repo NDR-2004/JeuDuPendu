@@ -1,0 +1,32 @@
+# ===========================
+# .NET / C# .gitignore
+# ===========================
+
+# Dossiers binaires
+bin/
+obj/
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Fichiers macOS
+.DS_Store
+
+# Dossiers VSCode
+.vscode/
+
+# Fichiers de build / auto-générés
+*.dll
+*.exe
+*.json
+*.db
+*.mpdb
+*.bak
+
+# Autres
+Thumbs.db
